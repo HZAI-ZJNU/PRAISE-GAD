@@ -1,6 +1,6 @@
 # PRAISE-GAD
 
-This is the PyTorch implementation for **PRAISE-GAD: Posterior-Risk-Aware Contrastive Learning with Complementary Evidence Fusion for Unsupervised Graph Anomaly Detection**.
+This is the PyTorch implementation for **PRAISE-GAD: Posterior-Risk-Aware Contrastive Learning for Unsupervised Graph Anomaly Detection**.
 
 > The paper is currently under review.
 
