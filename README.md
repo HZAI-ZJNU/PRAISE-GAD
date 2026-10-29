@@ -54,7 +54,7 @@ This is the PyTorch implementation for **PRAISE-GAD: Posterior-Risk-Aware Contra
 - PyTorch 1.12.1
 - CUDA 11.6
 - DGL 0.4.3
-- torch-scatter 2.0.9
+- torch-scatter 2.1.2
 - NumPy 1.24.4
 - SciPy 1.10.1
 - scikit-learn 1.3.2
